@@ -1,8 +1,6 @@
 # AIML_MAJOR_PROJECT
 
-## AIML MONTH INTERNSHIP ORGANISED BY AI CLUB IGDTUW
-
-
+Objective : Diabetes Prediction
 
 Colab link : https://colab.research.google.com/drive/1damtpoKAOn8Z3HN4jF376adWjDVUq5TE?usp=sharing
 Certificate link : https://drive.google.com/file/d/1mhD_MXtZaYaDu0vnPnA5Xnc21IV7URbc/view?usp=drivesdk
