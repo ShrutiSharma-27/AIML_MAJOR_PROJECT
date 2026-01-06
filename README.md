@@ -1,4 +1,4 @@
-# AIML_MAJOR_PROJECT
+# DIABETES_PREDICTION_PROJECT
 
 Objective : Diabetes Prediction
 
